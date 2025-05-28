@@ -18,7 +18,9 @@ node -v
 - Rode o comando a seguir:
 
 ```bash
-npm install typescript --save-dev
+npm install typescript ts-node --save-dev
+# Ou
+npm install typescript ts-node -D
 ```
 
 # 4. Inicializar o projeto com TypeScript
@@ -43,7 +45,7 @@ Precisamos definir o comando que irá rodar o projeto para que de fato o código
 
 ```json
 ...
-"start": "ts-node-dev --respawn --transpileOnly src/index.ts"
+"start": "npx ts-node-dev --respawn --transpileOnly src/index.ts"
 ...
 ```
 
