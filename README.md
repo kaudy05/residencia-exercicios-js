@@ -58,5 +58,5 @@ Precisamos definir o comando que irá rodar o projeto para que de fato o código
 Verifique se você está na pasta do `package.json` que deseja alterar e em seguida rode os comandos abaixo:
 ```bash
 git pull
-npm install
+npm install # Somente se precisar baixar alguma biblioteca
 ```
