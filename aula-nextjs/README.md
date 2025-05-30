@@ -1,3 +1,7 @@
+### Criar um fork do repositório (Scrum Master)
+Ao criar um fork, fazer uma pull request para a solução
+---
+
 ### Tema I:
 
 `/tema-I`
@@ -35,3 +39,5 @@
 | Grupo 4 | Gilmar Viriato de Queiroz Júnior | Tema III | Ao carregar tela, alert() e definir valor para useState dentro do useEffect.                 | `/tema-III` |
 | Grupo 5 | Pedro (Ceilândia)                | Tema II  | Input que atualiza um `<p>` com o valor digitado via useState e onChange.                    | `/tema-II`  |
 | Grupo 6 | Miguelzão                        | Tema IV  | Variável de estado vinculada a input, alert em useEffect se a palavra digitada for "Naruto". | `/tema-IV`  |
+
+
