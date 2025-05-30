@@ -1,3 +1,8 @@
+### Instalar Live Share
+Instalar a extensão do Live Share no VsCode e mandar o link para o grupo. Responsabilidade do líder do grupo (scrum master).
+
+---
+
 ### Criar um fork do repositório (Scrum Master)
 Ao criar um fork, fazer uma pull request para a solução
 
