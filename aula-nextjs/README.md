@@ -13,7 +13,7 @@ Ao criar um fork, fazer uma pull request para a solução
 `/tema-I`
 
 - Criar um contador com `useState`, onde ao clicar em um botão,
-  o valor de um parágro recebe o item atualizado.
+  o valor de um parágrafo recebe o item atualizado.
 
 ### Tema II:
 
