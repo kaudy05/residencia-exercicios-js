@@ -38,7 +38,7 @@ Ao criar um fork, fazer uma pull request para a solução
 | Grupo 2 | Lucas Gabriel da Costa Sousa     | Tema I   | Contador com useState; botão que atualiza valor em parágrafo.                                | `/tema-I`   |
 | Grupo 3 | Yasmin Willhee Franco Pontes     | Tema II  | Input que atualiza um `<p>` com o valor digitado via useState e onChange.                    | `/tema-II`  |
 | Grupo 4 | Gilmar Viriato de Queiroz Júnior | Tema III | Ao carregar tela, alert() e definir valor para useState dentro do useEffect.                 | `/tema-III` |
-| Grupo 5 | Saraiva (Ceilândia)                | Tema II  | Input que atualiza um `<p>` com o valor digitado via useState e onChange.                    | `/tema-II`  |
+| Grupo 5 | Saraiva                | Tema II  | Input que atualiza um `<p>` com o valor digitado via useState e onChange.                    | `/tema-II`  |
 | Grupo 6 | Miguelzão                        | Tema IV  | Variável de estado vinculada a input, alert em useEffect se a palavra digitada for "Naruto". | `/tema-IV`  |
 
 
